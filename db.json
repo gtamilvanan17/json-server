@@ -1,226 +1,226 @@
 {
   "users": [
-      {
-        "firstname": "David",
-        "lastname": "Wilson",
-        "email": "david.wilson@example.com",
-        "dob": "1998-10-22T17:55:00.000Z",
-        "address": "707 Cedar St",
-        "comments": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "id": 1
-      },
-      {
-        "firstname": "John",
-        "lastname": "Doe",
-        "email": "johndoe@example.com",
-        "dob": "1990-12-31T08:00:00.000Z",
-        "address": "123 Main St",
-        "comments": "Lorem ipsum dolor sit amet",
-        "id": 2
-      },
-      {
-        "firstname": "Alice",
-        "lastname": "Smith",
-        "email": "asmith@gmail.com",
-        "dob": "1985-05-15T12:00:00.000Z",
-        "address": "456 Elm St",
-        "comments": "Consectetur adipiscing elit",
-        "id": 3
-      },
-      {
-        "firstname": "Emily",
-        "lastname": "Johnson",
-        "email": "emily.johnson@example.com",
-        "dob": "2000-07-20T15:30:00.000Z",
-        "address": "789 Oak St",
-        "comments": "Sed do eiusmod tempor incididunt",
-        "id": 4
-      },
-      {
-        "firstname": "Michael",
-        "lastname": "Brown",
-        "email": "mbrown@example.com",
-        "dob": "1978-09-05T10:45:00.000Z",
-        "address": "101 Pine St",
-        "comments": "Ut enim ad minim veniam",
-        "id": 5
-      },
-      {
-        "firstname": "Sophia",
-        "lastname": "Martinez",
-        "email": "smartinez@example.com",
-        "dob": "1995-03-25T09:15:00.000Z",
-        "address": "202 Maple St",
-        "comments": "Quis nostrud exercitation ullamco",
-        "id": 6
-      },
-      {
-        "firstname": "Ethan",
-        "lastname": "Taylor",
-        "email": "etaylor@example.com",
-        "dob": "1983-11-18T16:00:00.000Z",
-        "address": "303 Cedar St",
-        "comments": "Duis aute irure dolor in reprehenderit",
-        "id": 7
-      },
-      {
-        "firstname": "Olivia",
-        "lastname": "Walker",
-        "email": "olivia.walker@example.com",
-        "dob": "1992-08-10T11:20:00.000Z",
-        "address": "404 Birch St",
-        "comments": "Excepteur sint occaecat cupidatat",
-        "id": 8
-      },
-      {
-        "firstname": "Noah",
-        "lastname": "Young",
-        "email": "nyoung@example.com",
-        "dob": "1989-06-30T14:10:00.000Z",
-        "address": "505 Walnut St",
-        "comments": "Voluptate velit esse cillum dolore",
-        "id": 9
-      },
-      {
-        "firstname": "Ava",
-        "lastname": "Harris",
-        "email": "avaharris@example.com",
-        "dob": "2005-02-14T13:25:00.000Z",
-        "address": "606 Spruce St",
-        "comments": "Fugiat nulla pariatur",
-        "id": 10
-      }
-    ],
-    "natpethunai": [
-      {
-        "firstName": "Alice",
-        "lastName": "Johnson",
-        "email": "alicejohnson@example.com",
-        "dob": "1995-03-12",
-        "gender": "Female",
-        "bloodgroup": "AB+",
-        "instagram": "alice.john",
-        "phone": "1112223333",
-        "address": "123 Oak St, Anytown, USA",
-        "book": "The Great Gatsby",
-        "id": 1
-      },
-      {
-        "firstName": "Bob",
-        "lastName": "Smith",
-        "email": "bobsmith@example.com",
-        "dob": "1992-07-25",
-        "gender": "Male",
-        "bloodgroup": "A-",
-        "instagram": "bob_smith",
-        "phone": "4445556666",
-        "address": "456 Elm St, Anycity, USA",
-        "book": "To Kill a Mockingbird",
-        "id": 2
-      },
-      {
-        "firstName": "Emily",
-        "lastName": "Brown",
-        "email": "emilybrown@example.com",
-        "dob": "1987-11-08",
-        "gender": "Female",
-        "bloodgroup": "O-",
-        "instagram": "emily_b",
-        "phone": "7778889999",
-        "address": "789 Maple St, Anystate, USA",
-        "book": "Harry Potter and the Sorcerer's Stone",
-        "id": 3
-      },
-      {
-        "firstName": "David",
-        "lastName": "Miller",
-        "email": "davidmiller@example.com",
-        "dob": "1980-05-30",
-        "gender": "Male",
-        "bloodgroup": "B+",
-        "instagram": "david_m",
-        "phone": "1234567890",
-        "address": "456 Pine St, Anyville, USA",
-        "book": "1984",
-        "id": 4
-      },
-      {
-        "firstName": "Sophia",
-        "lastName": "Wilson",
-        "email": "sophiawilson@example.com",
-        "dob": "1998-09-17",
-        "gender": "Female",
-        "bloodgroup": "A+",
-        "instagram": "sophia_w",
-        "phone": "9876543210",
-        "address": "123 Cedar St, Anycity, USA",
-        "book": "Pride and Prejudice",
-        "id": 5
-      },
-      {
-        "firstName": "James",
-        "lastName": "Brown",
-        "email": "jamesbrown@example.com",
-        "dob": "1983-04-20",
-        "gender": "Male",
-        "bloodgroup": "AB-",
-        "instagram": "james_b",
-        "phone": "5554443333",
-        "address": "789 Birch St, Anystate, USA",
-        "book": "The Catcher in the Rye",
-        "id": 6
-      },
-      {
-        "firstName": "Emma",
-        "lastName": "Davis",
-        "email": "emmadavis@example.com",
-        "dob": "1990-08-15",
-        "gender": "Female",
-        "bloodgroup": "O+",
-        "instagram": "emma.d",
-        "phone": "3216549870",
-        "address": "456 Willow St, Anytown, USA",
-        "book": "Lord of the Rings",
-        "id": 7
-      },
-      {
-        "firstName": "Daniel",
-        "lastName": "Taylor",
-        "email": "danieltaylor@example.com",
-        "dob": "1994-01-05",
-        "gender": "Male",
-        "bloodgroup": "B-",
-        "instagram": "daniel_t",
-        "phone": "1357924680",
-        "address": "123 Oak St, Anycity, USA",
-        "book": "The Hobbit",
-        "id": 8
-      },
-      {
-        "firstName": "Olivia",
-        "lastName": "Martinez",
-        "email": "oliviamartinez@example.com",
-        "dob": "1989-12-10",
-        "gender": "Female",
-        "bloodgroup": "A-",
-        "instagram": "olivia.m",
-        "phone": "2468013579",
-        "address": "789 Pine St, Anystate, USA",
-        "book": "The Hunger Games",
-        "id": 9
-      },
-      {
-        "firstName": "Liam",
-        "lastName": "Garcia",
-        "email": "liamgarcia@example.com",
-        "dob": "1986-06-28",
-        "gender": "Male",
-        "bloodgroup": "O-",
-        "instagram": "liam.g",
-        "phone": "9871234560",
-        "address": "123 Maple St, Anyville, USA",
-        "book": "Brave New World",
-        "id": 10
-      }
-    ]
-  }
+    {
+      "firstname": "David",
+      "lastname": "Wilson",
+      "email": "david.wilson@example.com",
+      "dob": "1998-10-22T17:55:00.000Z",
+      "address": "707 Cedar St",
+      "comments": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "id": 1
+    },
+    {
+      "firstname": "John",
+      "lastname": "Doe",
+      "email": "johndoe@example.com",
+      "dob": "1990-12-31T08:00:00.000Z",
+      "address": "123 Main St",
+      "comments": "Lorem ipsum dolor sit amet",
+      "id": 2
+    },
+    {
+      "firstname": "Alice",
+      "lastname": "Smith",
+      "email": "asmith@gmail.com",
+      "dob": "1985-05-15T12:00:00.000Z",
+      "address": "456 Elm St",
+      "comments": "Consectetur adipiscing elit",
+      "id": 3
+    },
+    {
+      "firstname": "Emily",
+      "lastname": "Johnson",
+      "email": "emily.johnson@example.com",
+      "dob": "2000-07-20T15:30:00.000Z",
+      "address": "789 Oak St",
+      "comments": "Sed do eiusmod tempor incididunt",
+      "id": 4
+    },
+    {
+      "firstname": "Michael",
+      "lastname": "Brown",
+      "email": "mbrown@example.com",
+      "dob": "1978-09-05T10:45:00.000Z",
+      "address": "101 Pine St",
+      "comments": "Ut enim ad minim veniam",
+      "id": 5
+    },
+    {
+      "firstname": "Sophia",
+      "lastname": "Martinez",
+      "email": "smartinez@example.com",
+      "dob": "1995-03-25T09:15:00.000Z",
+      "address": "202 Maple St",
+      "comments": "Quis nostrud exercitation ullamco",
+      "id": 6
+    },
+    {
+      "firstname": "Ethan",
+      "lastname": "Taylor",
+      "email": "etaylor@example.com",
+      "dob": "1983-11-18T16:00:00.000Z",
+      "address": "303 Cedar St",
+      "comments": "Duis aute irure dolor in reprehenderit",
+      "id": 7
+    },
+    {
+      "firstname": "Olivia",
+      "lastname": "Walker",
+      "email": "olivia.walker@example.com",
+      "dob": "1992-08-10T11:20:00.000Z",
+      "address": "404 Birch St",
+      "comments": "Excepteur sint occaecat cupidatat",
+      "id": 8
+    },
+    {
+      "firstname": "Noah",
+      "lastname": "Young",
+      "email": "nyoung@example.com",
+      "dob": "1989-06-30T14:10:00.000Z",
+      "address": "505 Walnut St",
+      "comments": "Voluptate velit esse cillum dolore",
+      "id": 9
+    },
+    {
+      "firstname": "Ava",
+      "lastname": "Harris",
+      "email": "avaharris@example.com",
+      "dob": "2005-02-14T13:25:00.000Z",
+      "address": "606 Spruce St",
+      "comments": "Fugiat nulla pariatur",
+      "id": 10
+    }
+  ],
+  "natpethunai": [
+    {
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "email": "alicejohnson@example.com",
+      "dob": "1995-03-12",
+      "gender": "Female",
+      "bloodgroup": "AB+",
+      "instagram": "alice.john",
+      "phone": "1112223333",
+      "address": "123 Oak St, Anytown, USA",
+      "book": "The Great Gatsby",
+      "id": 1
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Smith",
+      "email": "bobsmith@example.com",
+      "dob": "1992-07-25",
+      "gender": "Male",
+      "bloodgroup": "A-",
+      "instagram": "bob_smith",
+      "phone": "4445556666",
+      "address": "456 Elm St, Anycity, USA",
+      "book": "To Kill a Mockingbird",
+      "id": 2
+    },
+    {
+      "firstName": "Emily",
+      "lastName": "Brown",
+      "email": "emilybrown@example.com",
+      "dob": "1987-11-08",
+      "gender": "Female",
+      "bloodgroup": "O-",
+      "instagram": "emily_b",
+      "phone": "7778889999",
+      "address": "789 Maple St, Anystate, USA",
+      "book": "Harry Potter and the Sorcerer's Stone",
+      "id": 3
+    },
+    {
+      "firstName": "David",
+      "lastName": "Miller",
+      "email": "davidmiller@example.com",
+      "dob": "1980-05-30",
+      "gender": "Male",
+      "bloodgroup": "B+",
+      "instagram": "david_m",
+      "phone": "1234567890",
+      "address": "456 Pine St, Anyville, USA",
+      "book": "1984",
+      "id": 4
+    },
+    {
+      "firstName": "Sophia",
+      "lastName": "Wilson",
+      "email": "sophiawilson@example.com",
+      "dob": "1998-09-17",
+      "gender": "Female",
+      "bloodgroup": "A+",
+      "instagram": "sophia_w",
+      "phone": "9876543210",
+      "address": "123 Cedar St, Anycity, USA",
+      "book": "Pride and Prejudice",
+      "id": 5
+    },
+    {
+      "firstName": "James",
+      "lastName": "Brown",
+      "email": "jamesbrown@example.com",
+      "dob": "1983-04-20",
+      "gender": "Male",
+      "bloodgroup": "AB-",
+      "instagram": "james_b",
+      "phone": "5554443333",
+      "address": "789 Birch St, Anystate, USA",
+      "book": "The Catcher in the Rye",
+      "id": 6
+    },
+    {
+      "firstName": "Emma",
+      "lastName": "Davis",
+      "email": "emmadavis@example.com",
+      "dob": "1990-08-15",
+      "gender": "Female",
+      "bloodgroup": "O+",
+      "instagram": "emma.d",
+      "phone": "3216549870",
+      "address": "456 Willow St, Anytown, USA",
+      "book": "Lord of the Rings",
+      "id": 7
+    },
+    {
+      "firstName": "Daniel",
+      "lastName": "Taylor",
+      "email": "danieltaylor@example.com",
+      "dob": "1994-01-05",
+      "gender": "Male",
+      "bloodgroup": "B-",
+      "instagram": "daniel_t",
+      "phone": "1357924680",
+      "address": "123 Oak St, Anycity, USA",
+      "book": "The Hobbit",
+      "id": 8
+    },
+    {
+      "firstName": "Olivia",
+      "lastName": "Martinez",
+      "email": "oliviamartinez@example.com",
+      "dob": "1989-12-10",
+      "gender": "Female",
+      "bloodgroup": "A-",
+      "instagram": "olivia.m",
+      "phone": "2468013579",
+      "address": "789 Pine St, Anystate, USA",
+      "book": "The Hunger Games",
+      "id": 9
+    },
+    {
+      "firstName": "Liam",
+      "lastName": "Garcia",
+      "email": "liamgarcia@example.com",
+      "dob": "1986-06-28",
+      "gender": "Male",
+      "bloodgroup": "O-",
+      "instagram": "liam.g",
+      "phone": "9871234560",
+      "address": "123 Maple St, Anyville, USA",
+      "book": "Brave New World",
+      "id": 10
+    }
+  ]
+}
